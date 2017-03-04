@@ -1,6 +1,6 @@
 Package.describe({
   name: 'astrocoders:show-as-scroll',
-  version: '0.0.4',
+  version: '0.0.5',
   summary: 'Infinite Scroll with collections',
   git: '',
   documentation: 'README.md'
